@@ -41,9 +41,9 @@ By tracking **continuous survey participants** and extracting those who were sur
 
 Screenshot of the processed results in **RStudio**:
 
-![Result Screenshot]
 <img width="1192" height="849" alt="Screenshot 2025-09-01 at 16 56 47" src="https://github.com/user-attachments/assets/495caf80-4352-410e-b84e-99588460ebc3" />
-![5a5af3a0580281330e1b59cfdc89cb56](https://github.com/user-attachments/assets/0df0644f-b189-4ef0-8383-70dc109c12b1)
+
+![5a5af3a0580281330e1b59cfdc89cb56](https://github.com/user-attachments/assets/9c705206-1eff-4160-84b7-e87c89a5d793)
 
 * The **bar chart** shows participation distribution of respondents who reached \~35 years.
 * The **final dataset (`final_result`)** includes `pid`, participation count, survey years around age 35, all survey years, and age range.
